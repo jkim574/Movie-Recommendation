@@ -5,7 +5,7 @@ Developed an innovative movie recommendation engine with data science and machin
 
 ## Key Features
 
-### Data Processing and Analysis
+### Data Processing and Analysis 
 - Utilized **Pandas** and **NumPy** for sophisticated data manipulation and analysis.
 - The process involved loading and preprocessing datasets including movie metadata and user ratings, emphasizing movies in the English language.
 - A pivot table was created to transform the data into a user-item matrix, in order to set the stage for the recommendation algorithms.
