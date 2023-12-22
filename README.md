@@ -32,3 +32,6 @@ The primary objective was to develop a sophisticated and user-centric movie reco
 - Pandas
 - NumPy
 - JSON
+
+## Dataset
+- The Movies Dataset: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
